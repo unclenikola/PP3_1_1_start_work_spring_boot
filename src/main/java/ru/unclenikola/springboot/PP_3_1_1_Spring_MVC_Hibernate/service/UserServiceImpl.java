@@ -3,7 +3,7 @@ package ru.unclenikola.springboot.PP_3_1_1_Spring_MVC_Hibernate.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.unclenikola.springboot.PP_3_1_1_Spring_MVC_Hibernate.UserRepository.UserRepository;
+import ru.unclenikola.springboot.PP_3_1_1_Spring_MVC_Hibernate.repository.UserRepository;
 import ru.unclenikola.springboot.PP_3_1_1_Spring_MVC_Hibernate.model.User;
 
 
